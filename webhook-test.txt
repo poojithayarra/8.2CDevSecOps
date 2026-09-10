@@ -1,1 +1,2 @@
 GitHub Jenkins webhook test
+Automatic Jenkins trigger test
